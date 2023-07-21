@@ -1,6 +1,6 @@
 ![Screenshot (1215)](https://github.com/vedant-dhamecha/doctors_appointment_system/assets/105575987/e5477030-4b14-45d9-98ef-cf9dcd70d417)
-![Uploading Screenshot (1214).png…]()
-![Uploading Screenshot (1213).png…]()
+![Screenshot (1214)](https://github.com/vedant-dhamecha/doctors_appointment_system/assets/105575987/ad24bb18-975d-40b8-8617-0bc84eb61300)
+![Screenshot (1213)](https://github.com/vedant-dhamecha/doctors_appointment_system/assets/105575987/be0345b4-5d0d-4c22-9dd4-b13855897e04)
 # Doctor Appointment System
 
 The Doctor Appointment System is a web-based application designed to streamline the process of scheduling and managing appointments with doctors. This project aims to provide a user-friendly platform for patients to book appointments online and for doctors to manage their schedules efficiently.
@@ -46,7 +46,14 @@ The Doctor Appointment System is a web-based application designed to streamline 
 
 ## Screenshots
 
-![Uploading Screenshot (1216).png…]()![Uploading Screenshot (1217).png…]()
+![Uploading Screenshot (1213).png…]()
+![Uploading Screenshot (1214).png…]()
+![Screenshot (1215)](https://github.com/vedant-dhamecha/doctors_appointment_system/assets/105575987/03cf85db-319a-4d41-9cdb-c9204fa6f300)
+![Screenshot (1216)](https://github.com/vedant-dhamecha/doctors_appointment_system/assets/105575987/125b5112-c3e4-4637-a222-592e5bfb6c42)
+![Screenshot (1217)](https://github.com/vedant-dhamecha/doctors_appointment_system/assets/105575987/9632865a-ec2d-439d-a087-74f6507ed457)
+
+
+
 
 
 
